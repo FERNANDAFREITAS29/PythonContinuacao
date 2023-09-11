@@ -5,6 +5,8 @@
 
 # criar a classe
 class Computador:
+   
+   
    def_init_(self, marca, memoria_ram, placa_de_video)
 self.marca = marca
 self.memoria_ram = memoria_ram
