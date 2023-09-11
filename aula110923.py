@@ -17,11 +17,18 @@ class carro:
         print('ligado.............: ' + estado)
         print('.........................')
 
+    def ligar(self):
+        self.ligado=True
+
+    def desligar(self):
+        self.ligado=True
             
 
 c1 = carro(200,False,'Preto')
 c2 = carro(120,False,'Branco')
 c3 = carro(300,False,'Vermelho')
+
+
 c1.Mostrar()
 c2.Mostrar()
 c3.Mostrar()
