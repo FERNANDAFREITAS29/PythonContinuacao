@@ -28,6 +28,9 @@ c1 = carro(200,False,'Preto')
 c2 = carro(120,False,'Branco')
 c3 = carro(300,False,'Vermelho')
 
+c1.ligar()
+c2.ligar()
+c3.ligar()
 
 c1.Mostrar()
 c2.Mostrar()
