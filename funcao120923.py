@@ -1,4 +1,4 @@
-def somar():
+def numero():
     print('esta função vai somar valores')
 
 def multi():
